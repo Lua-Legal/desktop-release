@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "revision": 9,
+  "revision": 10,
   "releases": [
     {
       "baseVersion": "1.3.7",
@@ -90,6 +90,27 @@
               "url": "https://github.com/Lua-Legal/desktop-release/releases/download/v1.3.7-build.244/Lua-Notetaker-Setup-1.3.7-build.244.exe",
               "sha512": "eBInGw89ZI40mgB2Ugt97/SCh66Tiw4LJRmRoKKUl9+SUcXMzRgQYpGl54XaRM2BRGqk/DvOOKIBlQTzXy/h1A==",
               "size": 169594128
+            }
+          }
+        },
+        {
+          "id": "1.3.7/build-245",
+          "version": "1.3.7-build.245",
+          "sourceCommit": "5ade0dde12018988985b16fa89d7b122016ca01d",
+          "approvedFor": "alpha",
+          "labels": [
+            "1.3.7-alpha.5"
+          ],
+          "artifacts": {
+            "darwin-arm64": {
+              "url": "https://github.com/Lua-Legal/desktop-release/releases/download/v1.3.7-build.245/Lua.Notetaker-darwin-arm64-1.3.7-build.245.zip",
+              "sha512": "Upn+77Uy4WiIOs9OxkR2RQskCRBZMMjd+AubTB36iMEKLWY6cAZTg/vFkiG7PNxZg0BlFS4AvF4LJeINIzGn+A==",
+              "size": 184626454
+            },
+            "win32-x64": {
+              "url": "https://github.com/Lua-Legal/desktop-release/releases/download/v1.3.7-build.245/Lua-Notetaker-Setup-1.3.7-build.245.exe",
+              "sha512": "68wf8/jblM6uwvwhLAAP1X+1RzDZmvPQiUFoOevrs2tQnAcm5Va2AunrW3UrjK1F+QmATxWQSIwkPVOhu4kl5w==",
+              "size": 169606008
             }
           }
         }
